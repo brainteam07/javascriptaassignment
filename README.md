@@ -1,0 +1,2 @@
+# javascriptaassignment
+practic assigment
